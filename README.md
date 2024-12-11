@@ -1,1 +1,1 @@
-# notionpage
+# notionarticle
